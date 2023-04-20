@@ -1,0 +1,42 @@
+heading { 
+    font-size: 25px;
+     width: 100%;
+      margin: 30px;
+      background-color: rgb(56, 24, 98);
+      font-style:rgb(255, 255, 255);
+      font-family:Comic Sans MS;
+      box-shadow:10px;
+     
+}
+
+.note { font-size: 15px;
+     color: black;
+     background-color:rgb(28, 1, 52);
+     background-size:cover;
+    }
+
+ body { background-size: cover;
+    font-size:30px;
+    color:rgb(255, 255, 255); }
+
+#song { font-size: 23px;
+     margin: 15px; 
+    font-size:23px;
+margin:15px;}
+
+ canvas { border:5px solid white;
+     border-radius:20px;
+      box-shadow: 5px 5px 5px #73cfd8; 
+      border:5px;
+      border-radius: 20px;
+      box-shadow:10px 10px 10px rgb(255, 255, 255) ;
+      border-color: rgb(255, 255, 255);}
+
+      h1{
+        font-family:Comic Sans MS;
+        font-style:rgb(255, 255, 255);
+      }
+
+      h3{    font-family:Comic Sans MS;
+        font-style:rgb(255, 255, 255);
+      }
